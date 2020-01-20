@@ -1292,7 +1292,11 @@ a:focus, [tabindex="0"]:focus {
   /* stylelint-enable */
 
   a, a:visited {
-    text-decoration: underline;
+    text-dec
+
+
+
+    oration: underline;
   }
 
   a[href]::after {
